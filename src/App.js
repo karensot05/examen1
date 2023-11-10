@@ -15,7 +15,16 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          
+          <div>
+           NOMBRE DEL INSTITUTO:
+      <h1>HONORIO DELGADO ESPINOZA</h1>
+      <h3>KEREN GABRIEL OCÓN SOTO</h3>
+      <h3>TURNO-DIA SEXTO SEMESTRE</h3>
+      
+
+
+    </div>
         </a>
       </header>
     </div>
